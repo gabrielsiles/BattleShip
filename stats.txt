@@ -1,0 +1,6 @@
+Total coups: 33
+Nombre de lettres sans doublon du premier navire: 10
+Total à l'eau: 14
+Total déjà joué: 2
+Total touché: 17
+Dernier navire coulé: Contre-torpilleur 2
